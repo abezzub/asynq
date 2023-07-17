@@ -1,4 +1,4 @@
-module github.com/hibiken/asynq/tools
+module github.com/abezzub/asynq/tools
 
 go 1.18
 
